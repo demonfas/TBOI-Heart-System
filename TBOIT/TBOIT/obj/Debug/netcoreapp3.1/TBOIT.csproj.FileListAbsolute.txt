@@ -1,0 +1,13 @@
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\bin\Debug\netcoreapp3.1\TBOIT.exe
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\bin\Debug\netcoreapp3.1\TBOIT.deps.json
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\bin\Debug\netcoreapp3.1\TBOIT.runtimeconfig.json
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\bin\Debug\netcoreapp3.1\TBOIT.runtimeconfig.dev.json
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\bin\Debug\netcoreapp3.1\TBOIT.dll
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\bin\Debug\netcoreapp3.1\TBOIT.pdb
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\obj\Debug\netcoreapp3.1\TBOIT.csprojAssemblyReference.cache
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\obj\Debug\netcoreapp3.1\TBOIT.AssemblyInfoInputs.cache
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\obj\Debug\netcoreapp3.1\TBOIT.AssemblyInfo.cs
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\obj\Debug\netcoreapp3.1\TBOIT.csproj.CoreCompileInputs.cache
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\obj\Debug\netcoreapp3.1\TBOIT.dll
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\obj\Debug\netcoreapp3.1\TBOIT.pdb
+C:\Users\demonfas\Desktop\Trabajo\TBOIT\TBOIT\obj\Debug\netcoreapp3.1\TBOIT.genruntimeconfig.cache
